@@ -1,0 +1,314 @@
+body{
+    margin: 0;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+h1{
+    margin: 0;
+}
+.container{
+       display: flex;
+       
+       height: 50px;
+       justify-content: center;
+}
+.section1{
+    width: 156px;
+    object-fit: cover;
+    
+}
+.section2{
+    width: 860px;
+}
+.section3{
+   display: flex;
+    justify-content: start;
+}
+.nav1{
+    width: 90px;
+
+}
+.nav2{
+    width: 50px;
+}
+.table{
+    padding-left: 0;
+
+}
+
+.list{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    font-size: 13px;
+   
+    
+   
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+}
+.logo{
+    width: 130px;
+}
+.section1 img{
+    width: 130px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.body1{
+  width: 100%;
+  height: 570px;
+  background-image: url(Highlight-Surface-Laptop-4-15inch-platinum_VP4-1399x600.webp);
+}
+
+.body1{
+    display: flex;
+    align-items: center;
+}
+.head1{
+   
+   font-size: ;
+    font-weight: 500;
+}
+.inner1{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.bttn1{
+    height: 38px;
+    width: 105px;
+    background-color:#145DA0;
+    color: #ffff;
+    border: 0;
+    font-weight:bolder;
+}
+.para1{
+    line-height: 1.6;
+}
+.body2{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    justify-content: center;
+}
+.inner2,.inner3,.inner4{
+    width: 60px;
+}
+.body3{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+
+}
+
+.inner5,.inner6,.inner7,.inner8{
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.in1{
+    width: 100%;
+    height: 50%;
+}
+.in1 img{
+   height: 40px;
+   width: 40px;
+   margin-left: 65px;
+   margin-top: 53px;
+}
+.in2,.in3{
+    width: 100%;
+    height: 50%;
+}
+.in2 img{
+    height: 40px;
+   width: 40px;
+   margin-left: 30px;
+   margin-top: 53px;
+}
+.in3 img{
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+    margin-top: 53px;
+}
+.in1{
+    font-weight: 500;
+    color: #0067b8;;
+}
+.body4{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 450px;
+    justify-content: space-evenly;
+}
+.inner9,.inner10,.inner11,.inner12{
+    width: 300px;
+}
+.in4{
+    width: 100%;
+    height: 40%;
+}
+.head2{
+    font-weight: 500;
+    font-size: x-large;
+}
+.para2{
+    line-height: 1.6;
+}
+.lin1{
+    font-weight:600;
+    text-decoration: none;
+}
+.body5{
+    display: flex;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(edge.avif);
+    height: 560px;
+}
+.in5{
+    width: 430px;
+    height: 300px;
+    background-color: #ffff;
+    margin-left: 35px;
+    margin-top: 150px;
+    
+}
+.head3{
+    margin-top: 50px;
+    margin-left: 40px;
+    font-weight: 600;
+
+}
+.para3{
+    line-height: 1.6;
+    margin-left: 40px;
+}
+.bttn2{
+    margin-left: 40px;
+    height: 40px;
+    width: 130px;
+    background-color: #145DA0;
+    border: none;
+    color: #ffff;
+    font-weight: bold;
+}
+.body6{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    height: 450px;
+    justify-content: space-evenly;
+}
+.head4{
+    margin-left: 50px;
+    margin-top: 90px;
+    font-weight: 500;
+}
+.body7{
+    width: 100%;
+    height: 30px;
+    
+    
+    
+    display: flex;
+    justify-content: start;
+}
+.in6{
+    width: 140px;
+    
+    margin-left: 40px;
+    
+}
+.in7{
+    width: 50px;
+    text-align: center;
+
+}
+.in7 img{
+    margin-top: 10px;
+     height: 35px;
+}
+.foot{
+    display: flex;
+
+    width: 100%;
+    height: 370px;
+    background-color: #f2f2f2;
+    margin-top: 100px;
+}
+.footbox{
+    flex: 1;
+    height: 400px;
+}
+.boxer{
+    display: flex;
+    width: 100%;
+   
+    margin-bottom: 60px;
+}
+.head3{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight:600;
+    color: grey;
+    font-size: medium;
+}
+.links{
+    text-decoration: none;
+    color: gray;
+
+}
+.type{
+    margin-top: 20px;
+    font-size: smaller;
+}
+.end{
+    width: 100%;
+    height: 50px;
+}
+.end{
+    width: 50%;
+    margin-left: 750px;
+}
+.endli{
+    margin-left: 20px;
+    text-decoration: none;
+    color: gray;
+    font-size: 11px;
+    float: left;
+
+}
+.copy{
+   
+    text-decoration: none;
+    color: gray;
+    font-size: 11px;
+    float: right;
+    margin-right: 55px;
+    margin-top: 0;
+    font-weight: 400;
+   
+}
+.list2{
+    list-style: none;
+}
+.footer2{
+    width: 100%;
+    display: flex;
+}
+.footer2{
+    background-color: #f2f2f2;
+}
